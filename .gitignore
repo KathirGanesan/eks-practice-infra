@@ -1,0 +1,17 @@
+# Terraform state
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars        # usually contains secrets (you can keep .example)
+*.backup
+*.log
+
+# Terraform working dir
+.terraform/
+.terraform.lock.hcl
+
+# Local system files
+.DS_Store
+.idea/
+.vscode/
+*.swp
