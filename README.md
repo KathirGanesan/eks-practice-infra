@@ -1,4 +1,12 @@
-# EKS Practice Infra (Terraform)
+# EKS Practice Infra 
+
+![Terraform](https://img.shields.io/badge/Terraform-v1.5%2B-623CE4?logo=terraform)
+![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?logo=amazon-aws)
+![EKS](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)
+![Node Type](https://img.shields.io/badge/Node--Type-SPOT%20%F0%9F%9A%80-blue)
+![Cost-Optimized](https://img.shields.io/badge/Budget--Friendly-%F0%9F%92%B8-green)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Last Commit](https://img.shields.io/github/last-commit/kathir-dev/eks-practice-infra)
 
 This repository contains a minimal-cost Amazon EKS cluster setup using Terraform, tailored for personal learning, DevOps practice, and Certified Kubernetes Administrator (CKA) preparation.
 
